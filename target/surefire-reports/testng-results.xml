@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="44" started-at="2021-11-21T03:09:05Z" finished-at="2021-11-21T03:09:05Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="44" started-at="2021-11-21T03:09:05Z" finished-at="2021-11-21T03:09:05Z">
+      <class name="tsetCalculate">
+        <test-method status="PASS" signature="testCalculate1()[pri:0, instance:tsetCalculate@3d24753a]" name="testCalculate1" duration-ms="8" started-at="2021-11-21T03:09:05Z" finished-at="2021-11-21T03:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculate1 -->
+        <test-method status="PASS" signature="testCalculateHelp0()[pri:0, instance:tsetCalculate@3d24753a]" name="testCalculateHelp0" duration-ms="1" started-at="2021-11-21T03:09:05Z" finished-at="2021-11-21T03:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateHelp0 -->
+        <test-method status="PASS" signature="testCalculateHelp1()[pri:0, instance:tsetCalculate@3d24753a]" name="testCalculateHelp1" duration-ms="0" started-at="2021-11-21T03:09:05Z" finished-at="2021-11-21T03:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateHelp1 -->
+        <test-method status="PASS" signature="testcalculateHelp2()[pri:0, instance:tsetCalculate@3d24753a]" name="testcalculateHelp2" duration-ms="1" started-at="2021-11-21T03:09:05Z" finished-at="2021-11-21T03:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcalculateHelp2 -->
+        <test-method status="PASS" signature="testEntryOfCalculate1()[pri:0, instance:tsetCalculate@3d24753a]" name="testEntryOfCalculate1" duration-ms="0" started-at="2021-11-21T03:09:05Z" finished-at="2021-11-21T03:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEntryOfCalculate1 -->
+      </class> <!-- tsetCalculate -->
+    </test> <!-- test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.042" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="C:\Users\12999\.jenkins\workspace\projectc\target\test-classes;C:\Users\12999\.jenkins\workspace\projectc\target\classes;D:\maven\repository\org\projectlombok\lombok\1.18.16\lombok-1.18.16.jar;D:\maven\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;D:\maven\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;D:\maven\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\12999\.jdks\corretto-1.8.0_302\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\12999\AppData\Local\Temp\surefire1500080679833918195\surefirebooter7728570126755733581.jar C:\Users\12999\AppData\Local\Temp\surefire1500080679833918195 2021-11-21T11-09-02_974-jvmRun1 surefire7185886423408429334tmp surefire_05432006958445624212tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\12999\.jenkins\workspace\projectc\target\test-classes;C:\Users\12999\.jenkins\workspace\projectc\target\classes;D:\maven\repository\org\projectlombok\lombok\1.18.16\lombok-1.18.16.jar;D:\maven\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;D:\maven\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;D:\maven\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\12999"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\12999\.jdks\corretto-1.8.0_302\jre"/>
+    <property name="basedir" value="C:\Users\12999\.jenkins\workspace\projectc"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\12999\AppData\Local\Temp\surefire1500080679833918195\surefirebooter7728570126755733581.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\resources.jar;C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\rt.jar;C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\sunrsasign.jar;C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\jsse.jar;C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\jce.jar;C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\charsets.jar;C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\jfr.jar;C:\Users\12999\.jdks\corretto-1.8.0_302\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_302-b08"/>
+    <property name="user.name" value="12999"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\maven\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\12999\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_302"/>
+    <property name="user.dir" value="C:\Users\12999\.jenkins\workspace\projectc"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\12999\.jdks\corretto-1.8.0_302\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\apache-maven-3.8.1/bin;C:\Users\12999\.jdks\corretto-1.8.0_302/bin;C:\Program Files\Microsoft MPI\Bin\;C:\Users\12999\.jdks\corretto-1.8.0_302\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\MinGW\bin;C:\Windows;C:\Windows\System32;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\apache-maven-3.8.1\bin;C:\Program Files\nodejs\;C:\Program Files\Pandoc\;C:\Program Files\Google\Chrome\Application\;D:\Scripts\chromedriver_win32(1);D:\Scripts\;D:\;C:\Users\12999\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\12999\AppData\Local\Programs\Python\Python39\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\12999\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-14.0.2\bin;C:\Program Files\Java\jdk-14.0.2\jre\bin;C:\Users\12999\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\bin;;C:\Users\12999\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Users\12999\AppData\Roaming\npm;C:\Users\12999\.jdks\corretto-1.8.0_302\bin;C:\Users\12999\.jdks\corretto-1.8.0_302;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="25.302-b08"/>
+    <property name="java.ext.dirs" value="C:\Users\12999\.jdks\corretto-1.8.0_302\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testCalculate1" classname="tsetCalculate" time="0.007"/>
+  <testcase name="testCalculateHelp0" classname="tsetCalculate" time="0"/>
+  <testcase name="testCalculateHelp1" classname="tsetCalculate" time="0.001"/>
+  <testcase name="testEntryOfCalculate1" classname="tsetCalculate" time="0"/>
+  <testcase name="testcalculateHelp2" classname="tsetCalculate" time="0.001"/>
+</testsuite>
