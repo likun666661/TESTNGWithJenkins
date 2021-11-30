@@ -33,7 +33,7 @@ public class tsetCalculate {
         Assert.assertEquals(980,calculater.calculateHelp(baggage3,"经济舱",380,980,980,1400));
         Assert.assertEquals(1400,calculater.calculateHelp(baggage4,"经济舱",380,980,980,1400));
     }
-
+    /*
     @Test
     public void testEntryOfCalculate1(){
         innerBaggage[]innerBaggages=new innerBaggage[2];//1
@@ -68,15 +68,15 @@ public class tsetCalculate {
         Assert.assertEquals(-1.0, calculater.entryOfCalculate(null,"其它","其它","其它"));//1,4,5,8
         Assert.assertEquals(-1.0,calculater.entryOfCalculate(null,special,passenger,airportClass));
         Assert.assertEquals(170,(int)calculater.entryOfCalculate(innerBaggages,special,passenger,airportClass));
-    }
+    }*/
 
-    @Test
+    /*@Test
     public void testCalculateHelp1(){
         Assert.assertEquals(0, (int)calculater.calculateHelp(40,"凤凰知音白金卡","成人","头等舱"));
         Assert.assertEquals(40, (int)calculater.calculateHelp(90,"凤凰知音金卡","成人","公务舱"));
         Assert.assertEquals(50, (int)calculater.calculateHelp(90,"星空联盟金卡","成人","经济舱"));
         Assert.assertEquals(20, (int)calculater.calculateHelp(30,"否","婴儿","头等舱"));
-    }
+    }*/
 
     @Test
     public void testCalculate1(){
@@ -90,7 +90,7 @@ public class tsetCalculate {
         }
         Assert.assertEquals(90, (int)calculater.calculate(innerBaggages,"凤凰知音白金卡","成人","头等舱"));
     }
-    @Test
+    /*@Test
     public void testcalculateHelp2(){
         specialBaggage[]baggages=new specialBaggage[6];
         baggages[0]=new specialBaggage();
@@ -117,5 +117,5 @@ public class tsetCalculate {
         Assert.assertEquals(1300,calculater.calculateHelp(baggages[3]));
         Assert.assertEquals(1300,calculater.calculateHelp(baggages[4]));
         Assert.assertEquals(2600,calculater.calculateHelp(baggages[5]));
-    }
+    }*/
 }
